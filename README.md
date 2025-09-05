@@ -14,6 +14,15 @@ This project is developed using Tableau Public with a focus on HR data analytics
 
 <hr>
 
+<h2>Software Used</h2>
+<p align="left">
+  <a href="https://www.tableau.com/">
+    <img src="https://img.shields.io/badge/Tableau-3C4E6C?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Badge"/>
+  </a>
+</p>
+
+<hr>
+
 <h2>Key Features</h2>
 <ul>
   <li>Overall attrition rate with active employee count</li>
