@@ -3,6 +3,7 @@
 <p align="center">
 A fully interactive HR analytics dashboard built in Tableau Public to provide a 360° view of employee attrition, demographics, job satisfaction, and salary trends.
 </p>
+
 <hr>
 
 <h2>Project Overview</h2>
